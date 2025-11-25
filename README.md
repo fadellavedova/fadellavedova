@@ -7,7 +7,7 @@
 
 🚀 Passionate about Automatic Control, Aerospace Systems, and Robotics.
 
-🛰️ Currently developing my final thesis project on study and simulation of a magnetically actuated control system for small satellites. 
+🛰️ Currently developing my final thesis project on study and simulation of a magnetically actuated attitude control system for small satellites. 
 <a href="https://github.com/eugeetcheverry/Final-Project-"> View Repository</a>
 
 
