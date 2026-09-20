@@ -3,7 +3,7 @@
 
 🎓 Electronics Engineering Student at University of Buenos Aires.
 
-🤖 Task Robotization Intern at TGN.
+🛰️ GNC Engineer at Satellogic
 
 🚀 Passionate about Automatic Control, Aerospace Systems, and Robotics.
 
